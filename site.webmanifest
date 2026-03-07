@@ -1,0 +1,16 @@
+{
+  "name": "Keel",
+  "short_name": "Keel",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f7f8f3",
+  "theme_color": "#859900",
+  "icons": [
+    {
+      "src": "/2.png",
+      "sizes": "556x466",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}

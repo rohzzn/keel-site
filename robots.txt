@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://usekeel.co/sitemap.xml
